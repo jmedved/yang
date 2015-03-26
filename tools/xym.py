@@ -7,7 +7,10 @@ import sys
 import re
 import requests
 
-__author__ = 'jmedved@cisco.com, calle@tail-f.com, bclaise@cisco.com'
+__author__ = "Jan Medved, Carl Moberg, Benoit Claise"
+__copyright__ = "Copyright(c) 2015, Cisco Systems, Inc."
+__license__ = "New-style BSD"
+__email__ = "jmedved@cisco.com, calle@tail-f.com, bclaise@cisco.com"
 
 
 def remove_leading_spaces(mdl):
